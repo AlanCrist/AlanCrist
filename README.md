@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://empresadigital.net.br/wp-content/uploads/2020/06/Alien-science.gif">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/QW54FLhktd0vle3iw1/giphy.gif">
 
 ### Hi,  I'm Alan Cristian :alien:
 
