@@ -1,7 +1,4 @@
-<div>
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/WS10rJLW8SOO7Dt2Qy/giphy.gif">
 <img align="right" width="400" height="400" src="https://media.giphy.com/media/QW54FLhktd0vle3iw1/giphy.gif">
-<div>
   
 ### Hi,  I'm Alan Cristian :alien:
 
