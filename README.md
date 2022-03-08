@@ -22,6 +22,7 @@ Full-Stack Developer :man_technologist:
 ## Social media :mailbox_with_no_mail:
 
 [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falan-cristian-129332193%2F)](https://www.linkedin.com/in/alan-cristian-129332193/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&url=https%3A%2F%2Fwww.instagram.com%2Faliencristian)](https://www.instagram.com/aliencristian)
 
 ## Project Nike Store with React Native :iphone:
 
