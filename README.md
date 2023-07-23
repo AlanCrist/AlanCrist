@@ -21,7 +21,7 @@ Full-Stack Developer :man_technologist:
 
 ## Social media :mailbox_with_no_mail:
 
-[![Linkedin URL](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falan-cristian-129332193%2F)](https://www.linkedin.com/in/alan-cristian-129332193/)
+[![Linkedin URL](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falancrist%2F)](https://www.linkedin.com/in/alancrist/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&url=https%3A%2F%2Fwww.instagram.com%2Faliencristian)](https://www.instagram.com/aliencristian)
 [![Website Badge](https://img.shields.io/badge/-Website-%23282828?style=for-the-badge&logo=vercel&logoColor=white&url=https%3A%2F%2Falndev.vercel.app)](https://alndev.vercel.app)
 
