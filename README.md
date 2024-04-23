@@ -1,8 +1,8 @@
 <img align="right" width="400" height="400" src="https://media.giphy.com/media/QW54FLhktd0vle3iw1/giphy.gif">
   
-### Hi,  I'm Alan Cristian :alien:
+### Greetings, earthlings,  I'm Alan Cristian :alien:
 
-Full-Stack Developer :man_technologist:
+Front-end Software Enginner :man_technologist:
 
 ```diff
 - else {
@@ -13,11 +13,11 @@ Full-Stack Developer :man_technologist:
 
 ## About me
 
-:heart: Programming | :notes: Trance
+:heart: Programming
 
-- :earth_americas: I'm from Cabedelo - Brazil
-- :video_game: I like to play video games
-- :art: I love customizing
+- :earth_americas: I'm from Brazil
+- :video_game: I like challenges
+- :man_technologist: I love coding
 
 ## Social media :mailbox_with_no_mail:
 
