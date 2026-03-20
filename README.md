@@ -69,10 +69,6 @@ const alien = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanCrist&theme=radical&hide_border=true&background=0D0221&ring=00FF41&fire=9D4EDD&currStreakLabel=00FF41" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlanCrist&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌠 Intergalactic Channels
